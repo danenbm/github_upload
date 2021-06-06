@@ -1,4 +1,4 @@
-def main():
-    print("Hello world")
+def main(name):
+    print(name)
 
-main()
+main("Finn")
